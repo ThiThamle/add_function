@@ -1,3 +1,5 @@
+#declare variables
 x=123
 y=456
+#convert the total of two variables into string before print out
 print(str(x+y))
