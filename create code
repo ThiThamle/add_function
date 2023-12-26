@@ -1,5 +1,7 @@
+#define adding function
 def add(x,y):
   return (x+y)
 x=123
 y=456
+#call the adding function and print out result
 print(add(x,y))
